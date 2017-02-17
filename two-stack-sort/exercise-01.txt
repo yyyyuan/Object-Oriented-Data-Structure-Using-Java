@@ -1,0 +1,13 @@
+1000th	coney
+1001th	conga
+2000th	gifts
+2001th	gigas
+3000th	marks
+3001th	marls
+4000th	regal
+4001th	rehab
+5000th	texas
+5001th	texts
+
+/*Due to the fact that there is little confusion in the question of whether its 1000th
+or 1001th I list out both of them here. */

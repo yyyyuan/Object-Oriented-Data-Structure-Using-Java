@@ -1,0 +1,28 @@
+Results Test Case for TextBook
+
+The tree is instantiated
+The number of nodes in the tree is 0
+The (iterative) number of nodes in the tree is 0
+The tree is empty is true
+L was inserted into the tree
+D was inserted into the tree
+P was inserted into the tree
+C was inserted into the tree
+H was inserted into the tree
+J was inserted into the tree
+The number of nodes in the tree is 6
+The (iterative) number of nodes in the tree is 6
+J is on the tree: true
+J was deleted from the tree
+The tree in Inorder is:
+1. C
+2. D
+3. H
+4. L
+5. P
+The tree in Preorder is:
+1. L
+2. D
+3. C
+4. H
+5. P
